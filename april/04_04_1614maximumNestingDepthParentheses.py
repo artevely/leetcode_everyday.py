@@ -26,7 +26,7 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
         brackets = 0
-        max = -1
+        max = 0
 
         for i in s:
             if i == '(':
