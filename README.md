@@ -1,4 +1,4 @@
-### Don't forget to switch to the depelop branch
+### Don't forget to switch to the develop branch
 
 # Daily LeetCode Solutions in Python
 
